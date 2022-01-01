@@ -6,4 +6,4 @@ Date: November 28th of 2021
 
 Text 
 
-Developer 1 changes
+Developer 1 changes.
